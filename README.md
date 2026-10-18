@@ -1,4 +1,4 @@
-# EXP-3
+p# EXP-3
 
 # STAIR CASE WIRING
 
@@ -54,26 +54,22 @@ To control the status of the given lamp by using two-way switches.
 ## Direct connection (XNOR):
 
 Circuit Diagram:
+<img width="1218" height="577" alt="Xnor1" src="https://github.com/user-attachments/assets/f82dec7c-4d90-481e-89d8-2762301aa076" />
+<img width="865" height="395" alt="Xnor2" src="https://github.com/user-attachments/assets/ceb3ad20-040a-4d61-821e-739eaa7a4db8" />
 
-
-<img width="922" height="360" alt="XOR-NotActive" src="https://github.com/user-attachments/assets/b4f5000e-b9df-4edc-b754-b8f0ccbe0cac" />
-<img width="940" height="362" alt="XNOR-Active" src="https://github.com/user-attachments/assets/eaf935ff-c734-4d4d-8e85-10a11283a67e" />
 
 Tabulation-01:
-
 <img width="1465" height="682" alt="image" src="https://github.com/user-attachments/assets/fc958c52-c58b-4834-8300-c6251b3ad586" />
 
 ## CROSS CONNECTION (XOR):
 
 Circuit Diagram:
+<img width="940" height="362" alt="XNOR-Active" src="https://github.com/user-attachments/assets/eaf935ff-c734-4d4d-8e85-10a11283a67e" />
+<img width="922" height="360" alt="XOR-NotActive" src="https://github.com/user-attachments/assets/b4f5000e-b9df-4edc-b754-b8f0ccbe0cac" />
 
-
-<img width="1218" height="577" alt="Xnor1" src="https://github.com/user-attachments/assets/f82dec7c-4d90-481e-89d8-2762301aa076" />
-<img width="865" height="395" alt="Xnor2" src="https://github.com/user-attachments/assets/ceb3ad20-040a-4d61-821e-739eaa7a4db8" />
 
 
 Tabulation-02:
-
 <img width="1475" height="730" alt="image" src="https://github.com/user-attachments/assets/66a29433-9a99-4e18-b628-eecf9263dde0" />
 
 ## RESULT:
